@@ -1,4 +1,4 @@
-# Community Participation Guidelines
+# Community Participation Guidelines h
 
 This repository is governed by Mozilla's code of conduct and etiquette guidelines. 
 For more details, please read the
